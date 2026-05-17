@@ -1,4 +1,4 @@
-# Analysis of Online Financial Frauds in India
+[Download Project PDF](https://github.com/heyitsmishra10/online-financial-frauds-analysis-india/raw/main/Analysis_of_Online_Financial_Frauds_in_India.pdf)# Analysis of Online Financial Frauds in India
 
 ## Project Overview
 This project analyzes the increasing trend of online financial frauds in India, including UPI scams, phishing attacks, OTP frauds, and digital payment-related cybercrimes.
